@@ -32,7 +32,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone <repository-url>
+git clone <https://github.com/mohammad-faalfard/user_accounts>
 cd accounts
 ```
 

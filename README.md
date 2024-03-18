@@ -76,9 +76,9 @@ Once the project is set up, you can use Django admin to manage users, including 
 
 The API endpoints provided by this project include:
 
-- `/api/login/`: Endpoint for user authentication and obtaining JWT tokens.
-- `/api/user/profile/`: Endpoint for retrieving user profile information.
-- `/api/user/profile/update/`: Endpoint for updating user profile information.
+- `/v1/api/login/`: Endpoint for user authentication and obtaining JWT tokens.
+- `/v1/api/user/profile/`: Endpoint for retrieving user profile information.
+- `/v1/api/user/profile/update/`: Endpoint for updating user profile information.
 
 ## Unit Tests
 

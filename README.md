@@ -1,4 +1,4 @@
-﻿# User Accounts Mini Project
+﻿# Reusable User Accounts Mini Project
 
 This is a Django-based mini project for managing user accounts with custom user models, authentication, and profile management features.
 
